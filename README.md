@@ -1,5 +1,5 @@
 # SBAWeb
-Personal website project using HTML, CSS, and JavaScript for validation.
+Front-end project using HTML, CSS, and JavaScript for validation.
 
 To run:
 1. Clone this repository to your ide/editor
